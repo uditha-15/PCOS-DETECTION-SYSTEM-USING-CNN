@@ -7,7 +7,7 @@ Training Data is used to train the CNN model.
 Testing Data is used to evaluate the model’s performance.
 In preprocessing, data augmenttation is used to improve the model
 ## Model Details
-Convolutional Neural Network (CNN) with layers for feature extraction and classification.
+It consists of Convolutional Neural Network (CNN) with layers for feature extraction and classification.
 Activation Functions used are ReLU for convolutional layers and Softmax for the output layer.
 Adam optimizer is used with a learning rate of 0.001.
 Categorical Crossentropy loss function is used.
